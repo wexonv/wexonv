@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **JS, Py and MongoDB**
 
-- 👨‍💻 My biolink is [https://bit.ly/wexonbio](https://bit.ly/wexonbio)
+- 👨‍💻 My website is [wexonbio](https://bit.ly/wexonbio)
 
-- 📫 How to reach me **https://discordapp.com/users/821717399732486146**
+- 📫 How to reach me **[Discord](https://discordapp.com/users/821717399732486146)**
 
 - ⚡ Fun fact **The idea to create Styz was created on December 13, 2023**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
