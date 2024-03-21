@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm wexon</h1>
 <h3 align="center">I am a beginner JS developer.</h3>
 
-- 🔧 I’m currently working on [Styz](https://styz.online)
+- 🔧 I’m currently working on [Styz!](https://styz.online)
 
 - 🌱 I’m currently learning **JS, Py and MongoDB**
 
-- 👨‍💻 My website is [wexonbio](https://bit.ly/wexonbio)
+- 👨‍💻 My website [link!](https://bit.ly/wexonbio)
 
 - 📫 How to reach me **[Discord](https://discordapp.com/users/821717399732486146)**
 
