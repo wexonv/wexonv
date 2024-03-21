@@ -1,3 +1,5 @@
+My personal repository.
+
 ### Hi there 👋
 * 📌 My nickname is wexon
 * 🔧 I’m currently working on Styz
