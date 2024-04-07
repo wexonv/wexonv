@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=0093FF&random=false&width=435&lines=wexon+%3A);Welcome!)](https://git.io/typing-svg"; />
+<img src="[https://readme-typing-svg.demolab.com?font=&pause=1000&color=0093FF&random=false&width=435&lines=wexon+%3A);Welcome!)](https://git.io/typing-svg](https://readme-typing-svg.demolab.com?font=&pause=1000&color=0093FF&random=false&width=435&lines=wexon+%3A);Welcome!)"; />
 <h1 align="center">Hi 👋, I'm wexon</h1>
 <h3 align="center">Welcome to my profile!</h3>
 
