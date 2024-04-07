@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm wexon</h1>
-<h3 align="center">I am a beginner JS developer.</h3>
+<h3 align="center">Welcome to my profile!</h3>
 
 - 🔧 I’m currently working on [Styz!](https://styz.online)
 
