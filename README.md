@@ -6,7 +6,7 @@
 
 - 🔧 I’m currently working on [Styz!](https://styz.online)
 
-- 🌱 I’m currently learning **JS, Py and MongoDB**
+- 🌱 I’m currently learning **JS, Py and C++**
 
 - 👨‍💻 My website [link!](https://bit.ly/wexonbio)
 
