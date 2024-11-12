@@ -6,8 +6,8 @@
 
 - Skills ⚒️: **HTML, CSS, JS**
 - Projects 🤖: **[Styz Bot(Discord.js)](www.styz.eu)**
-- YouTube ❣️: https://wexon.top/yt
-- My Website 👨‍💻: [link!](https://wexon.top)
+- YouTube ❣️: **[link!](https://wexon.top/yt)**
+- My Website 👨‍💻: **[link!](https://wexon.top)**
 
 
 
