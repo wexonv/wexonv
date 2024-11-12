@@ -1,18 +1,15 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=wexon+:);+Welcome+to+my+profile!;" />
 </h1>
-<h1 align="center">Hi 👋, I'm wexon</h1>
-<h3 align="center">Welcome to my profile!</h3>
+<h1 align="center">wexon.top - Eryk! 👋🧑‍💻</h1>
+<h3 align="center">www.wexon.top</h3>
 
-- 🔧 I’m currently working on [Styz!](https://styz.online)
+- Skills ⚒️: **HTML, CSS, JS**
+- Projects 🤖: **[Styz Bot(Discord.js)](www.styz.eu)**
+- YouTube ❣️: https://wexon.top/yt
+- 👨‍💻 My Website [link!](https://wexon.top)
 
-- 🌱 I’m currently learning **JS, Py and C++**
 
-- 👨‍💻 My website [link!](https://bit.ly/wexonbio)
-
-- 📫 How to reach me **[Discord](https://discordapp.com/users/821717399732486146)**
-
-- ⚡ Fun fact **The idea to create Styz was created on December 13, 2023**
 
 <h3 align="left"></h3>
 <p align="left">
