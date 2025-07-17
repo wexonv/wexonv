@@ -4,7 +4,7 @@
 
 <h1 align="center">wexon.top – Eryk, your full-stack dev! 🥸💻</h1>
 <h3 align="center">🚀 I build modern web apps, bots, systems, and tools tailored for real needs.</h3>
-<h3 align="center"><a href="https://wexon.top" target="_blank">🌍 www.wexon.top</a></h3>
+<h3 align="center"><a href="https://wexon.top" target="_blank">www.wexon.top</a></h3>
 
 ---
 
