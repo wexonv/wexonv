@@ -56,8 +56,8 @@ Whether you need a custom system, bot, or full web platform – **I'm ready to d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wexon-official&show_icons=true&theme=radical&border_radius=10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexon-official&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wexonv&show_icons=true&theme=radical&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wexonv&layout=compact&theme=radical" />
 </p>
 
 ---
