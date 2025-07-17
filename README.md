@@ -4,7 +4,7 @@
 <h1 align="center">wexon.top - Eryk! 👋🧑‍💻</h1>
 <h3 align="center">www.wexon.top</h3>
 
-- Skills ⚒️: **HTML, CSS, JS**
+- Skills ⚒️: **HTML, CSS, JS, TS, C#, NEXT.js**
 - Projects 🤖: **[Styz Bot(Discord.js)](https://www.styz.eu)**
 - YouTube ❣️: **[link!](https://wexon.top/yt)**
 - My Website 👨‍💻: **[link!](https://wexon.top)**
