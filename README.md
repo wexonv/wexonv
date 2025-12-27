@@ -1,10 +1,10 @@
-![wexon](https://img.shields.io/badge/wexon-Developer-blue?style=for-the-badge&logo=github)
+[![wexon](https://img.shields.io/badge/wexon-Developer-blue?style=for-the-badge&logo=github)](https://wexon.top)
 
 <p align="center">
-  <img src="https://wexon.top/favicon.webp" alt="wexon"/>
+  <a href="https://wexon.top">
+    <img src="https://wexon.top/favicon.webp" alt="wexon"/>
+  </a>
 </p>
-
-
 
 <p align="center">
   I'm Eryk (<i>wexon</i>) and I really enjoy <s>programming</s> breaking things.
