@@ -1,5 +1,10 @@
 ![wexon](https://img.shields.io/badge/wexon-Developer-blue?style=for-the-badge&logo=github)
 
+<p align="center">
+  <img src="https://www.example.com/wexon-banner.png" alt="wexon" />
+</p>
+
+
 
 <p align="center">
   I'm Eryk (<i>wexon</i>) and I really enjoy <s>programming</s> breaking things.
