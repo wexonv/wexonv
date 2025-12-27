@@ -10,11 +10,8 @@
   I'm Eryk (<i>wexon</i>) and I really enjoy programming and building innovative things.
 </p>
 
----
-
 <p align="center">
-  PS. If you are looking for my <b>real</b> portfolio, check out  
-  👉 <a href="https://wexon.top">wexon.top</a> 👈  
+  PS. If you are looking for my <b>real</b> portfolio, check out <a href="https://wexon.top">my portfolio!</a> 
   Thanks!
 </p>
 
