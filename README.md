@@ -1,10 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=waving&color=gradient&height=120" />
-</p>
-
-
-<p align="center">
-  <img src="https://wexon.top/favicon.png" width="256" height="256" />
+  <img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=wave&color=0:FFFFFF,100:FFFFFF&backgroundColor=007bff&height=120" />
 </p>
 
 <p align="center">
