@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I'm Eryk (<i>wexon</i>) and I really enjoy <s>programming</s> breaking things.
+  I'm Eryk (<i>wexon</i>) and I really enjoy programming and building innovative things.
 </p>
 
 ---
