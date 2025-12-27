@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
-  PS. If you are looking for my <b>real</b> portfolio, check out <a href="https://wexon.top">my portfolio!</a> 
-  Thanks!
+  PS. If you are looking for my <b>real</b> portfolio, check out 
+  <a href="https://wexon.top" style="color:#1E90FF; text-decoration:none; font-weight:bold;">my portfolio!</a> 
+  🚀
 </p>
 
 ---
