@@ -1,7 +1,7 @@
 ![wexon](https://img.shields.io/badge/wexon-Developer-blue?style=for-the-badge&logo=github)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=wexon" alt="wexon"/>
+  <img src="https://wexon.top/favicon.webp" alt="wexon"/>
 </p>
 
 
