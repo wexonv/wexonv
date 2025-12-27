@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=wave&color=0:FFFFFF,100:FFFFFF&backgroundColor=007bff&height=120" />
-</p>
+![wexon](https://img.shields.io/badge/wexon-Developer-blue?style=for-the-badge&logo=github)
+
 
 <p align="center">
   I'm Eryk (<i>wexon</i>) and I really enjoy <s>programming</s> breaking things.
