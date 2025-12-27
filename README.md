@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=waving&color=gradient&height=100" />
-<h2 align="center">Hello! 👋</h2>
+  <img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=waving&color=gradient&height=120" />
+</p>
+
 
 <p align="center">
   <img src="https://wexon.top/favicon.png" width="256" height="256" />
