@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=waving&color=blue&height=100" />
+<img src="https://capsule-render.vercel.app/api?text=wexon&animation=fadeIn&type=waving&color=0:1e3c72,100:2a5298&height=100" />
 </p>
 <h2 align="center">Hello! 👋</h2>
 
